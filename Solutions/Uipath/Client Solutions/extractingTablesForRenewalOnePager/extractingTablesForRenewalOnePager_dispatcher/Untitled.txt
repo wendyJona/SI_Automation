@@ -1,0 +1,98 @@
+Personal: Casualty 
+Show Rating Worksheet 
+Line-level Premiums 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Personal Legal Liability R 4.98 0.996 01/07/2025 01/07/2026 R 59.76 
+Personal: Property 
+Show Rating Worksheet 
+Line-level Premiums 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Essential-Property keys 0 01/07/2025 01/07/2026 0 
+Premises - Residential, 1: Xxxxxxxxxxxx, Xxxxxxxxxxxx, Pretoria 0181 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Buildings Optional-Accidental damage to fixed machinery R 32.66 0.99573171 01/07/2025 01/07/2026 R 391.92 
+Buildings Optional-Sasria R 38.90 1 01/07/2025 01/07/2026 R 466.80 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Contents Optional-Sasria R 5.80 1 01/07/2025 01/07/2026 R 69.60 
+Structure - Residential structures, 1: Xxxxxxxxxxxx, Xxxxxxxxxxxx, Pretoria 0181 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Buildings Essential-Burglary R 26.07 0.99579832 01/07/2025 01/07/2026 R 312.84 
+Buildings Essential-Bursting of geysers R 188.09 0.99565931 01/07/2025 01/07/2026 R 2,257.08 
+Buildings Essential-Bursting of water pipes or water tanks R 33.20 0.99580084 01/07/2025 01/07/2026 R 398.40 
+Buildings Essential-Fire R 99.30 0.99568836 01/07/2025 01/07/2026 R 1,191.60 
+Buildings Essential-Flood R 2.00 0.99502488 01/07/2025 01/07/2026 R 24.00 
+Buildings Essential-Hail R 48.92 0.99572563 01/07/2025 01/07/2026 R 587.04 
+Buildings Essential-Lightning or thunderbolt R 45.28 0.99560246 01/07/2025 01/07/2026 R 543.36 
+Buildings Essential-Malicious damage R 0.09 1 01/07/2025 01/07/2026 R 1.08 
+Buildings Essential-Storm or wind R 125.25 0.99570713 01/07/2025 01/07/2026 R 1,503.00 
+Buildings Essential-Subsidence or landslip (limited cover) R 1.22 0.99186992 01/07/2025 01/07/2026 R 14.64 
+Buildings Essential-Theft or attempted theft R 9.68 0.99588477 01/07/2025 01/07/2026 R 116.16 
+Buildings Essential-Water or snow R 3.11 0.99679487 01/07/2025 01/07/2026 R 37.32 
+Buildings Optional-Power surge 0 01/07/2025 01/07/2026 0 
+Fixed Expense - Buildings R 28.71 0.99583767 01/07/2025 01/07/2026 R 344.52 
+Minimum Premium - Buildings 0 01/07/2025 01/07/2026 0 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Contents Essential-Burglary R 98.36 0.99564733 01/07/2025 01/07/2026 R 1,180.32 
+Contents Essential-Fire R 13.67 0.99563001 01/07/2025 01/07/2026 R 164.04 
+Contents Essential-Flood R 0.90 1 01/07/2025 01/07/2026 R 10.80 
+Contents Essential-Hail R 2.48 0.99598394 01/07/2025 01/07/2026 R 29.76 
+Contents Essential-Lightning or thunderbolt R 24.60 0.99554836 01/07/2025 01/07/2026 R 295.20 
+Contents Essential-Malicious damage R 1.42 0.99300699 01/07/2025 01/07/2026 R 17.04 
+Contents Essential-Storm or wind R 18.25 0.99563557 01/07/2025 01/07/2026 R 219.00 
+Contents Essential-Subsidence or landslip (limited cover) R 2.36 0.99578059 01/07/2025 01/07/2026 R 28.32 
+Contents Essential-Theft or attempted theft R 42.76 0.99557625 01/07/2025 01/07/2026 R 513.12 
+Contents Essential-Water or snow R 0.90 1 01/07/2025 01/07/2026 R 10.80 
+Contents Optional-Accidental damage R 12.53 0.99602544 01/07/2025 01/07/2026 R 150.36 
+Contents Optional-Mechanical, electrical or electronic breakdown R 42.50 0.99578257 01/07/2025 01/07/2026 R 510.00 
+Contents Optional-Power surge R 24.89 0.9956 01/07/2025 01/07/2026 R 298.68 
+Contents Optional-Transport of groceries and household goods 0 01/07/2025 01/07/2026 0 
+Fixed Expense - Contents R 55.34 0.9956819 01/07/2025 01/07/2026 R 664.08 
+Minimum Premium - Contents 0 01/07/2025 01/07/2026 0 
+Personal: All Risks 
+Show Rating Worksheet 
+Line-level Premiums 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Sasria R 0.24 1 01/07/2025 01/07/2026 R 2.88 
+All Risk Item: Medical equipment/External hearing aid, Make: Bernafon, Model: 
+Encanta 300 MNR TR (Left), Serial No. BH2JHP 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Medical equipment R 45.22 0.99559665 01/07/2025 01/07/2026 R 542.64 
+All Risk Item: Medical equipment/External hearing aid, Make: Bernafon, Model: 
+Encanta 300 MNR TR (Right), Serial No. BH2JLK 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Medical equipment R 45.22 0.99559665 01/07/2025 01/07/2026 R 542.64 
+All Risk Item: Medical equipment/External hearing aid, Make: Bernafon, Model: 
+Charger, Serial No. 2312293223 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Medical equipment R 16.85 0.99586288 01/07/2025 01/07/2026 R 202.20 
+Personal: Policy 
+Show Rating Worksheet 
+Line-level Premiums 
+R 01/01/R 
+Africa AccIntermediary Description Term 28.Amount Override Ratio 07Eff. Date Exp. Date Amount 
+0701/336.ptance e Fee Minimum 
+DesAc count P olicy C ontact R einsurance 00 Searc h 1 2025 07/A dministration 2026 /00 Premium Sasria 
+0 Client Language Afrikaans (ZA) Premium : 
+0 Quote VAP 
+Show Rating Worksheet 
+Personal: Vehicle 
+Show Rating Worksheet 
+Line-level Premiums 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Sasria R 4.04 1 01/07/2025 01/07/2026 R 48.48 
+Vehicle: Make = MERCEDES-BENZ / Model = ML 350 A/T / Reg Nr = XXXXXXXXXXXX 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Accident for cars or LDV's R 527.43 0.99567696 01/07/2025 01/07/2026 R 6,329.16 
+Fire or explosion for cars or LDV's R 10.49 0.99525617 01/07/2025 01/07/2026 R 125.88 
+SPVMinimumPremiumCost 0 01/07/2025 01/07/2026 0 
+Theft or hijacking for cars or LDV's R 128.28 0.99565352 01/07/2025 01/07/2026 R 1,539.36 
+Vehicle glass R 28.53 0.99581152 01/07/2025 01/07/2026 R 342.36 
+Vehicle keys 0 01/07/2025 01/07/2026 0 
+Vehicle: Make = FIAT / Model = UNO MIA 1100 3d / Reg Nr = XXXXXXXXXXXX 
+Description Term Amount Override Ratio Eff. Date Exp. Date Amount 
+Accident for cars or LDV's R 121.88 0.99567029 01/07/2025 01/07/2026 R 1,462.56 
+Fire or explosion for cars or LDV's R 2.59 0.99615385 01/07/2025 01/07/2026 R 31.08 
+SPVMinimumPremiumCost 0 01/07/2025 01/07/2026 0 
+Theft or hijacking for cars or LDV's R 31.69 0.99560163 01/07/2025 01/07/2026 R 380.28 
+Vehicle glass R 2.95 0.99662162 01/07/2025 01/07/2026 R 35.40 
+Vehicle keys 0 01/07/2025 01/07/2026 0 

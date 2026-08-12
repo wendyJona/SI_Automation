@@ -1,0 +1,112 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "allRiskItems&Sequence_2",
+        "all_Items&Sequence_2",
+        "all_Items&Sequence_13",
+        "itemName&Sequence_11",
+        "extractedTbAllRisk&Sequence_11",
+        "extractedTbAllRisk&Sequence_10",
+        "itemName&Sequence_10",
+        "bl_AllRisk&Sequence_2",
+        "lineLevelDT&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadingSectionBySession.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pattern&Sequence_3",
+        "personalHeader&Sequence_1",
+        "lines&Sequence_3",
+        "counter&Sequence_3",
+        "allRiskItemsDict&Sequence_3",
+        "AllriskItemAmount&Sequence_3",
+        "AmountValue&Sequence_3",
+        "amountStr&Sequence_1",
+        "totalTermAmount&Sequence_3",
+        "lineLevelBlock&Sequence_1",
+        "matches&Sequence_1",
+        "splitSections&Sequence_1",
+        "textFileOutput&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadingSectionBySession - Copy.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "A&Sequence_39",
+        "allRiskItem&Sequence_39",
+        "A&Sequence_38",
+        "allRiskItem&Sequence_38",
+        "A&Sequence_37",
+        "allRiskItem&Sequence_37",
+        "propertyLineLevelBlock&Sequence_34",
+        "A&Sequence_27",
+        "allRiskItem&Sequence_27",
+        "splitITem&Sequence_1",
+        "A&Sequence_20",
+        "allRiskItem&Sequence_20",
+        "VehicleLineLevelBlock&Sequence_1",
+        "allRiskItemsDict&Sequence_1",
+        "lines&Sequence_1",
+        "policyPremiumItems&Sequence_1",
+        "matches&Sequence_1",
+        "allRiskLineLevelBlock&Sequence_1",
+        "amountStr&Sequence_1",
+        "totalTermAmount&Sequence_1",
+        "AmountValue&Sequence_1",
+        "AllriskItemAmount&Sequence_1",
+        "A&Sequence_14",
+        "allRiskItem&Sequence_14",
+        "textFileOutput&Sequence_1",
+        "splitSections&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadingEachSession.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "idx&Sequence_1",
+        "lastIndex&Sequence_1",
+        "m&Sequence_1",
+        "personalSections&Sequence_1",
+        "header&Sequence_1",
+        "subSectionList&Sequence_1",
+        "subSectionHeaders&Sequence_1",
+        "textFileOutput&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
