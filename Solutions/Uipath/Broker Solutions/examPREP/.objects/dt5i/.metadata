@@ -1,0 +1,11 @@
+﻿{
+  "Name": "New Account",
+  "Type": "App",
+  "Id": "dt5i26axJUm5thILVxEjSw",
+  "Reference": "XrXOaf63ykW2f_3PQO5_vA/dt5i26axJUm5thILVxEjSw",
+  "Created": "2026-03-11T21:27:21.3677388Z",
+  "Updated": "2026-03-11T21:27:21.3677388Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

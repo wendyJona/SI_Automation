@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BO2bSxsRXkioZpeq3v4yPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://uibank.uipath.com/register-account" DesignTimeRectangle="572, 772, 373, 68" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT middleName'" FullSelectorArgument="&lt;webctrl id='middleName' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='middleName' tag='INPUT' type='text' class='form-control uibank-input ng-untouched ng-pristine ng-valid' aaname='Middle Name Or Initial' /&gt;" Guid="0bc201f9-cd5d-435e-84b4-7a8c8a1e8cd1" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="572, 748, 154, 24" ElementType="Text" FriendlyName="'Middle Name Or Initial'" FullSelectorArgument="&lt;webctrl aaname='Middle Name Or Initial' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Middle Name Or Initial' tag='LABEL' type='' class='uibank-label' check:innerText='Middle Name Or Initial' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a16edcf3aed1f08cf95ce0a38577e0ae.png" xmlns="">0477xhgM-qU6Gcrut_ZeojA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

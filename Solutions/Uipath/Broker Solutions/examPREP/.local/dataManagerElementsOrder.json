@@ -1,0 +1,58 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "output&Sequence_1",
+        "dt1&Sequence_1",
+        "dt2&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "invoke code.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outValue&Sequence_1",
+        "example&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Test1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPnr&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "json.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "jsonArray&Sequence_1",
+        "jsonObject&Sequence_1",
+        "destJson&Sequence_1",
+        "output&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Register For Account",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PF3dqdoxgUuvQAy2Nwq4hA",
+  "Reference": "XrXOaf63ykW2f_3PQO5_vA/PF3dqdoxgUuvQAy2Nwq4hA",
+  "ParentRef": "XrXOaf63ykW2f_3PQO5_vA/d18JsXhgME6qJgF0Tbb5rQ",
+  "Created": "2026-03-11T21:31:00.3735448Z",
+  "Updated": "2026-03-11T21:31:00.3735448Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
