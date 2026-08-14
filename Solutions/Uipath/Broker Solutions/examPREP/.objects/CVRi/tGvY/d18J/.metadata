@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: UiBank-Login",
+  "Type": "Screen",
+  "Id": "d18JsXhgME6qJgF0Tbb5rQ",
+  "Reference": "XrXOaf63ykW2f_3PQO5_vA/d18JsXhgME6qJgF0Tbb5rQ",
+  "ParentRef": "XrXOaf63ykW2f_3PQO5_vA/tGvYJD9N0E6ND7etR5z1yw",
+  "Created": "2026-03-11T21:31:00.2841642Z",
+  "Updated": "2026-03-11T21:31:00.2841642Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

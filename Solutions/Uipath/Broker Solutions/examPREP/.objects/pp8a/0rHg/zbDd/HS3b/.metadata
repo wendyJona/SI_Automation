@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Sex*",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "HS3bTY4emUyfy9kz_FgZkg",
+  "Reference": "XrXOaf63ykW2f_3PQO5_vA/HS3bTY4emUyfy9kz_FgZkg",
+  "ParentRef": "XrXOaf63ykW2f_3PQO5_vA/zbDdj6dBwki_M02Mg0-4bw",
+  "Created": "2026-03-11T21:22:04.1505223Z",
+  "Updated": "2026-03-11T21:22:04.1505223Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
